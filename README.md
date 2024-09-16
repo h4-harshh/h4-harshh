@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/harsh22_" target="blank"><img src="https://img.shields.io/twitter/follow/harsh22_?logo=twitter&style=for-the-badge" alt="harsh22_" /></a> </p>
 
-- 🔭 I’m currently working on [LetsChat](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- 🔭 I’m currently working on [LetsChat](https://letschat-uusa.onrender.com/)
 
 - 🌱 I’m currently learning **BackEnd**
 
