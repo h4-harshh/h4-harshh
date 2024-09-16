@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)](https://h4-harshh.io)
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
